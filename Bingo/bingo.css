@@ -1,0 +1,51 @@
+body{
+    /* TODO */
+    background-color: white;
+}
+
+#page{
+    width:455px;
+    margin: auto;
+}
+
+td{
+    /* TODO */
+    font-family:Arial, sans-serif;
+    color:cyan;
+    padding: 10px;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    border: 3px solid darkgoldenrod;
+    background-color: #fff;
+    
+}
+
+h1, h2 {
+    /* TODO */
+    font-family:sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: lightblue;
+    background-color:grey;
+    border: 2px solid black;
+}
+
+h3, a {
+    /* TODO */
+    margin:0;
+    width:100%;
+    padding:10px;
+    font-family: Arial, sans-serif;
+    text-align:center;
+    color:crimson;
+    background-color: white;
+    text-decoration: underline;
+}
+
+#free{
+    /* TODO */
+    background-color:black;
+    color: white;
+    cursor: not-allowed;
+}
